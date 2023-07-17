@@ -1,4 +1,3 @@
-# Assignment 1
+# Morra Game
 
-You will find instructions for this assignment on the course website.
-
+I coded the Morra game where you can play against the computer on three different difficulties.
